@@ -663,7 +663,16 @@ vendors:
   # Internal version: 3.3.0
   # https://github.com/ethantw/Han
   han:
-
+  
+valine:
+  enable: true
+  appid:  SkWT2NNHPIBHPvGC3XIpFRUk-gzGzoHsz
+  appkey: tiTu7SX6GOrlxzeyWyKVGtNG
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: ヾﾉ≧∀≦)o来啊，快活啊! 
+  guest_info: nick,mail,link
+  pageSize: 10
 
 # Assets
 css: css
