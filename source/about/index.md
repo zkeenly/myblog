@@ -7,7 +7,7 @@ type: "about"
 `Github:`  [zkeenly](https://www.github.com/zkeenly)
 `Email：`  [zhangkaixu321@163.com](mailto:zhangkaixu321@163.com)
 `QQ:`  [772714161](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=772714161&website=www.oicqzone.com)
-`时间线` [zkeenly.GitHub.com/Timeline](https://zkeenly.github.com/Timeline)
+`TimeLine` [点击这里查看主人的时间轴ヾ(〃^∇^)ﾉ](https://zkeenly.github.io/2000/01/01/Timeline/)
 
   `韩寒` `村上春树` `东野圭吾` `余华` `鲁迅` `钱钟书`
   `Minecraft` `Ingress` `三国杀` `王者荣耀` `WOW`
