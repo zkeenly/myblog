@@ -7,8 +7,8 @@ tags:
 	- python
 comments: true
 ---
-代码：![code](https://github.com/zkeenly/articles/blob/master/RAW2RGB.py)
-本文采取sony拍摄的arw格式图像测试，测试图像在![论文](https://github.com/cchen156/Learning-to-See-in-the-Dark)中下载：
+代码：[code](https://github.com/zkeenly/articles/blob/master/RAW2RGB.py)
+本文采取sony拍摄的arw格式图像测试，测试图像在[论文](https://github.com/cchen156/Learning-to-See-in-the-Dark)中下载：
 
 bayer图像格式
 ![image](https://user-images.githubusercontent.com/6647857/47952226-e8512f80-dfa6-11e8-8a7a-facbd94c30e6.png)
