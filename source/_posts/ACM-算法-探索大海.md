@@ -1,5 +1,5 @@
 ---
-title: 【ACM/算法】探索大海
+title: '[ACM/算法]探索大海'
 date: 2018-11-17 21:45:25
 categories: ACM/算法
 tags: 
