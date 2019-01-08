@@ -9,7 +9,3 @@ type: "about"
 `QQ:`  [772714161](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=772714161&website=www.oicqzone.com)
 `TimeLine` [点击这里查看主人的时间轴ヾ(〃^∇^)ﾉ](https://zkeenly.github.io/2000/01/01/Timeline/)
 
-  `韩寒` `村上春树` `东野圭吾` `余华` `鲁迅` `钱钟书`
-  `Minecraft` `Ingress` `三国杀` `王者荣耀` `WOW`
-  `八王乱` `世界尽头与冷酷仙境` `中国近代史-徐中约`
-  `羽毛球` `跑步`
