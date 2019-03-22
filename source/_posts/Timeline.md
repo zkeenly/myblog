@@ -1,33 +1,59 @@
 ---
 title: 这里是主人的时间轴ヾ(〃^∇^)ﾉ
 date: 0 11:23:24
-categories: Timeline
+categories: 
 tags: 
 comments: false
 ---
+### `2019年`
+
+> `02月` `论文` LIGHTWEIGHT NETWORK BASED ON INTERLEAVED GROUP CONVOLUTION FOR IMAGE SUPER-RESOLUTION[submitted]
+>
+> > 基于深度神经网络的图像超分辨率重建算法。
+>
+> `02月` `论文` LOW-LIGHT IMAGE RESTORATION BASED ON DETAILS ENHANCER NETWORK[submitted]
+>
+> > 基于深度神经网络的低照度图像复原算法。
+>
+> `01月` `软件著作权` 基于深度学习的图像智能识别系统
+>
+> > 基于keras，构建深度神经网络，结合饭否微博API，实现自动化机器人识图转发系统。
+> >
+> > 登记号：2019SR0022392
+> >
+> > 程序详情：[图像智能识别程序设计](https://zkeenly.github.io/2018/11/17/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E2%80%9C%E5%BE%AE%E5%8D%9A%E4%BA%BA%E5%83%8F%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB%E8%BD%AC%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E8%AE%BE%E8%AE%A1/) 
+
 ### `2018年`
+
 > `07月-10月` `实习` 英然信息科技有限公司 
+>
 > > `python` `tensorflow`
 > 担任图像处理/计算机视觉 算法工程师。
 > + 生猪数目统计：对于密集的生猪流动穿过通道，使用机器学习/光流追踪算法通过监控视频分析通过的生猪数量，准确度可达95%以上。项目难点：目标粘连，物体遮挡。
 > + 研究基于深度学习的物体分割，物体识别算法，Faster RCNN，SSD，Mask RCNN，人脸识别，3D点云图等。
 >
 > `05月` `项目` [图像智能识别程序设计](https://zkeenly.github.io/2018/11/17/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E2%80%9C%E5%BE%AE%E5%8D%9A%E4%BA%BA%E5%83%8F%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB%E8%BD%AC%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E8%AE%BE%E8%AE%A1/) 
+>
 > > `keras` `python` `tensorflow`
 > 通过keras，构建VGG16神经网络，结合饭否微博API，实现自动化机器人识图转发系统。截止到2018年11月，已有200+用户关注，并申请软件著作权。
-> 
+>
 > `03月` `研究` 超分辨率算法研究
->> `caffe` `超分辨率重建` `深度学习` `机器学习` 
->研究学习基于深度学习的单帧/多帧超分辨率重建算法。
->系统学习机器学习理论知识。
->研究VDSR,RESNET,DRRN,Dense Net,等神经网络的研究以及实现。
+> > `caffe` `超分辨率重建` `深度学习` `机器学习` 
+> 研究学习基于深度学习的单帧/多帧超分辨率重建算法。
+> 系统学习机器学习理论知识。
+> 研究VDSR,RESNET,DRRN,Dense Net,等神经网络的研究以及实现。
 >
 ### `2017年`
 > `12月` `证书` 获得 全国大学生英语四级 证书
-> 
->`09月` `入学`通过全国研究生入学考试，就读于“[华中师范大学](http://www.ccnu.edu.cn/)-[计算机技术](http://cs.ccnu.edu.cn/)”
->>导师：[谢伟](http://cs.ccnu.edu.cn/info/1048/1270.htm)。
->研究方向：数字图像处理/计算机视觉/机器学习/深度学习。
+>
+> `09月` `入学` 通过全国研究生入学考试，就读于“[华中师范大学](http://www.ccnu.edu.cn/)-[计算机技术](http://cs.ccnu.edu.cn/)”
+>
+> >导师：[谢伟](http://cs.ccnu.edu.cn/info/1048/1270.htm)。
+> >研究方向：数字图像处理/计算机视觉/机器学习/深度学习。
+>
+> `6月-9月` `实习` 武汉富士康集团有限公司
+>
+> > 软件测试/系统测试
 ### `2016年`
 > `12月` `证书` 获得全国英语等级考试 第三级 口语证书 & 全国计算机等级考试 第二级 C语言证书
 > 
@@ -44,17 +70,18 @@ comments: false
 > `09月` `项目` 下载链接爬虫网站
 > >`JSP` `HTML` `java`
 > >校园网改造，提供缓存文件急速下载服务（仅提供日下载量top10的下载连接）。
-> > * 为解决下载链接数量限制，与舍友xqzhang共同设计-下载链接爬虫网站：抓取校园网缓存文件链接。提供校友便捷高速下载大文件（运营数日访问量即达到数千）。
-> 
+> >
+> >* 为解决下载链接数量限制，与舍友xqzhang共同设计-下载链接爬虫网站：抓取校园网缓存文件链接。提供校友便捷高速下载大文件（运营数日访问量即达到数千）。
+>
 > `06月` `实习` 河北恒研电子有限公司
 > > + 监控设备安装，大型监控网络布局，服务器/路由器设备调试。海康/大华等摄像头设备的配置与安装。
-> 
+>
 > `03月` `项目` google-hosts 修改神器
 > >`C#.NET`
->  2015年，大陆google域名完全被ban，但是部分IP仍可直接访问google。
->  + 使用C#.NET制作[google-hosts修改神器](https://github.com/zkeenly/google-hosts)：可一键修改windows系统本机hosts文件，以直接访问Google。
+> 2015年，大陆google域名完全被ban，但是部分IP仍可直接访问google。
+> + 使用C#.NET制作[google-hosts修改神器](https://github.com/zkeenly/google-hosts)：可一键修改windows系统本机hosts文件，以直接访问Google。
 > >曾获得数千下载量。
-> 
+>
 
 ### `2014年`
 > `09月` `入学` 通过河北省专升本考试，就读于“[邢台学院](http://www.xttc.edu.cn/)-[计算机科学与技术](http://xkx.xttc.edu.cn/)”
