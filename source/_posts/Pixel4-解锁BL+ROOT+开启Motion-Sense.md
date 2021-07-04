@@ -22,7 +22,7 @@ comments: true
 
 Settings > About phone > Build number.
 
-![1625390973678](https://github.com/zkeenly/myblog/blob/master/source/images/2021-07-04-1.png)
+![2021-07-04-1.png](https://github.com/zkeenly/myblog/blob/master/source/images/2021-07-04-1.png?raw=true)
 
 将文件解压，取出压缩包中的boot.img 文件，将文件拷贝到手机目录中（建议选择Download路径，不然后面找起来比较麻烦）
 
